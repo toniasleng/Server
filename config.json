@@ -64,9 +64,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
-            "pass": "x",
+            "url": "pool.hashvault.pro:443",
+            "user": "85UqaoDnk31NRnjwLCnaRkVikUMK2Dc43RPvMcwHa2AWHZ37TCZ9e4fVJRvHkHVg1KFhLCMKMgnbnPJZLkeo4RQYFB4UHmJ",
+            "pass": "gassmang",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
